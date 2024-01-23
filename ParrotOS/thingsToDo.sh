@@ -11,3 +11,4 @@ sudo curl -fsSLo /usr/share/keyrings/brave-browser-archive-keyring.gpg https://b
 sudo apt-get install tcpdump && sudo pip install --pre scapy[complete]
 sudo apt -y autoremove
 sudo apt autoclean
+cat /etc/os-release
